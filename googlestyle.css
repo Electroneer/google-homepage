@@ -1,0 +1,53 @@
+body {
+	font-family:Arial;
+}
+div{
+	border:1pt solid black;		
+}
+
+#header {
+	padding:10px;
+	float:right;
+	font-size: 10pt;
+    	width: 100%;
+	background-color:red;
+	text-align:right;			
+}
+img{
+	display: block;
+	margin-left: auto;
+   	margin-right: auto;
+	padding:30px;
+	
+}
+#logo{
+	display:block;
+    	width: 70%;
+	margin-left: auto;
+   	margin-right: auto;
+
+}
+#input {
+	background-color:#f2f2f2;
+}
+#footer {
+	background-color:#f2f2f2;
+	position:fixed;
+    	width: 100%;
+	bottom:0;
+	padding:10px;
+	margin-left: -27px;
+	font-size: 10pt;
+}
+#btmLf{
+	display:inline;	
+}
+
+#btmRt{
+	display:inline;	
+	right:0px;
+
+}
+
+
+
